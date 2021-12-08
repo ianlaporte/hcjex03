@@ -4,6 +4,7 @@ function timesTwo(params) {
   };
   
   console.log(timesTwo(4));
+  timesTwo(4);//?
 
 
 
